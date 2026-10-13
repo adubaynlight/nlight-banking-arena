@@ -1,2 +1,0 @@
-import{fa as e,fn as t,ja as n,pn as r}from"./index-PpaxBz1I.js";var i=n(e(),1);function a(){let{institution:e}=t();return(0,i.useMemo)(()=>t=>t?r(t,e.jurisdiction):`—`,[e.jurisdiction])}function o(){return(0,i.useMemo)(()=>{let e=new Intl.DateTimeFormat(`en-US`,{month:`short`,year:`numeric`,timeZone:`UTC`});return t=>{let n=/^(\d{4})-(\d{2})/.exec(t);return n?e.format(new Date(Date.UTC(Number(n[1]),Number(n[2])-1,1))):t}},[])}export{o as n,a as t};
-//# sourceMappingURL=useDay-ZZFognOh.js.map

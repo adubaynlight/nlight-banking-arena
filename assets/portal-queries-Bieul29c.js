@@ -1,2 +1,0 @@
-import{Yi as e,xn as t}from"./index-PpaxBz1I.js";var n=n=>e({queryKey:[...n,`portal`,`applications`,`list`],queryFn:()=>t.get(`/api/portal/applications`)}),r=(n,r)=>e({queryKey:[...n,`portal`,`applications`,`detail`,r],queryFn:()=>t.get(`/api/portal/applications/${encodeURIComponent(r)}`)});export{n,r as t};
-//# sourceMappingURL=portal-queries-Bieul29c.js.map
