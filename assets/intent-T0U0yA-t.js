@@ -1,0 +1,2 @@
+import{ot as e}from"./shell-h4q-RQAk.js";var t=null,n=new Set;function r(r){t=r??null,n.forEach(e=>e()),e(`open-assistant`)}function i(){let e=t;return t=null,e}function a(e){return n.add(e),()=>{n.delete(e)}}export{r as n,i as r,a as t};
+//# sourceMappingURL=intent-T0U0yA-t.js.map

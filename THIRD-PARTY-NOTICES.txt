@@ -6628,3 +6628,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+AI models hosted under ai/models/ (checkpoint 8B; loaded in the browser only when a person uses an AI feature):
+=== minilm-l6-v2: all-MiniLM-L6-v2 (ONNX, int8) (Apache-2.0) https://huggingface.co/Xenova/all-MiniLM-L6-v2 at revision 751bff37182d3f1213fa05d7196b954e230abad9
+=== qwen2.5-0.5b-instruct: Qwen2.5-0.5B-Instruct (MLC q4f16_1) (Apache-2.0) https://huggingface.co/mlc-ai/Qwen2.5-0.5B-Instruct-q4f16_1-MLC at revision 32ff081fe7e4dfe4ffb167b94c66fdf11e02b8ad
+=== tesseract-eng: Tesseract OCR English LSTM data (4.0.0_best_int) (Apache-2.0 (tessdata); packaged by @tesseract.js-data/eng 1.0.0 (MIT)) node_modules/@tesseract.js-data/eng/4.0.0_best_int/eng.traineddata.gz
